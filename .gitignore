@@ -1,0 +1,5 @@
+.komodotools
+*.komodoproject
+*.pyc
+*.html
+test.py
